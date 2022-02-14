@@ -1,2 +1,2 @@
-# Write your solution here
+# Solution
 print(365*24*60) # 365 days, 24 hours in each day
