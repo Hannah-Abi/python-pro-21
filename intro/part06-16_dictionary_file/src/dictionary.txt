@@ -1,0 +1,3 @@
+tietkone: computer
+auto: car
+auto: car
